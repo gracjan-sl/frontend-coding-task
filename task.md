@@ -42,7 +42,7 @@ You can find specific acceptance criteria below.
 1. On the main screen of the game, a single question is displayed, followed by a text input to enter the answer, and a button. On the side, the player can see their current score and chances left.
 1. No question may repeat within a single game.
 1. The API returns questions in batches of 5. The total pool of question is much bigger. For each call, a random subset of questions is returned.
-    1. Questions fetched from the API may contain duplicates. It's up to you to filter them out.
+    1. Questions fetched from the API may contain duplicates. It's your job to filter them out.
     1. The API returns a JSON array of objects, each of which has a plaintext `question` and expected `answerSha1`, hashed with SHA1.
     1. All answers were lowercased before hashing. You'll have to do the same in order to verify answers.
 1. The button triggers answer verification.
