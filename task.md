@@ -21,9 +21,9 @@ The API is available at `GET https://eok9ha49itquif.m.pipedream.net` and returns
       "question": "Which country's flag can be described as 'Green with a vertical white band on the left side. The green section contains a white crescent and star.'?"
     },
     {
-      "answerSha1": "ec9f74ca516ad8c240dfe0e4d22acffed003c220",
-      "question": "Which of these countries borders Yemen?"
-    },
+      "answerSha1": "b79445b10bd5bc34cbebf63355101dbdb420aa0e",
+      "question": "Which director directed Gangs of New York?"
+    }
     {
       "answerSha1": "fd26fb6ff5aa10eaddad0b2c832139dbe052c9d7",
       "question": "Which philosopher famously said 'This is patently absurd; but whoever wishes to become a philosopher must learn not to be frightened by absurdities'?"
